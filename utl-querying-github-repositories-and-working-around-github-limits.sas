@@ -8,7 +8,7 @@ Querying github and working around github limits
 
 QUERY EXAMPLES
 
-I was not able to split the hithhub api commands
+I was not able to split the github api commands
 
 REPO NAMES THAT CONTAIN the string MAPPING
 
@@ -26,7 +26,6 @@ Example create a text file with a list of all my repositories
 
 https://tinyurl.com/369caxcw
 https://docs.github.com/en/search-github/getting-started-with-searching-on-github/understanding-the-search-syntax#query-for-values-between-a-range
-
 
 AGENDA
 
